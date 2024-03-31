@@ -21,7 +21,7 @@ This GitHub repository contains the source code for a classic Tic Tac Toe game i
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/DRSTANGE/Prodigy_WD_03.git
    ```
 
 2. Open the `index.html` file in your web browser to launch the Tic Tac Toe game.
