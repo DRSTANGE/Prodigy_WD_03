@@ -14,7 +14,7 @@ This GitHub repository contains the source code for a classic Tic Tac Toe game i
   
 - **Responsive Design:** Utilizes responsive HTML and CSS to ensure compatibility and optimal viewing experience across various devices and screen sizes.
   
-- **Win Detection:** Automatically detects winning combinations and highlights the winning moves, providing immediate feedback to players.
+
 
 **Installation:**
 
